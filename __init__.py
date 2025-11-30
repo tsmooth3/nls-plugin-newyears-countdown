@@ -1,6 +1,6 @@
 """
-The **Christmas Counter Downer**
-displays a countdown to Christmas.
+The **New Years Counter Downer**
+displays a countdown to New Years.
 """
 import json
 from pathlib import Path
